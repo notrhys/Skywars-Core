@@ -1,0 +1,17 @@
+name: SkywarsCore
+main: cc.flycode.skywars.Skywars
+version: 0.1
+author: FlyCode
+commands:
+  addSpawn:
+    usage: /<command>
+    description: set spawn command for cages and players.
+  force:
+    usage: /<command>
+    description: set spawn command for cages and players.
+  addChest:
+    usage: /<command>
+    description: add's a chest.
+  build:
+    usage: /<command>
+    description: Toggles building.
